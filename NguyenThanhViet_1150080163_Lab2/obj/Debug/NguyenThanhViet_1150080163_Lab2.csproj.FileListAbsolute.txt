@@ -1,0 +1,12 @@
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab2\bin\Debug\NguyenThanhViet_1150080163_Lab2.exe.config
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab2\bin\Debug\NguyenThanhViet_1150080163_Lab2.exe
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab2\bin\Debug\NguyenThanhViet_1150080163_Lab2.pdb
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab2\obj\Debug\NguyenThanhViet_1150080163_Lab2.csproj.AssemblyReference.cache
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab2\obj\Debug\NguyenThanhViet_1150080163_Lab2.Form1.resources
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab2\obj\Debug\NguyenThanhViet_1150080163_Lab2.Properties.Resources.resources
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab2\obj\Debug\NguyenThanhViet_1150080163_Lab2.csproj.GenerateResource.cache
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab2\obj\Debug\NguyenThanhViet_1150080163_Lab2.csproj.CoreCompileInputs.cache
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab2\obj\Debug\NguyenThanhViet_1150080163_Lab2.exe
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab2\obj\Debug\NguyenThanhViet_1150080163_Lab2.pdb
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab2\obj\Debug\NguyenThanhViet_1150080163_Lab2.exe.config
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab2\obj\Debug\ThucHanh3.frmXuLySo.resources

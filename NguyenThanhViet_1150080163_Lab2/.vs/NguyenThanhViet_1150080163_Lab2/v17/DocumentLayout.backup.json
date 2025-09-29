@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E82CEC2-CDBA-4825-BF1B-695B999E7A16}|NguyenThanhViet_1150080163_Lab2.csproj|d:\\ptpmhdt\\nguyenthanhviet_1150080163_lab2\\apdung4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E82CEC2-CDBA-4825-BF1B-695B999E7A16}|NguyenThanhViet_1150080163_Lab2.csproj|solutionrelative:apdung4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E82CEC2-CDBA-4825-BF1B-695B999E7A16}|NguyenThanhViet_1150080163_Lab2.csproj|d:\\ptpmhdt\\nguyenthanhviet_1150080163_lab2\\apdung4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E82CEC2-CDBA-4825-BF1B-695B999E7A16}|NguyenThanhViet_1150080163_Lab2.csproj|solutionrelative:apdung4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E82CEC2-CDBA-4825-BF1B-695B999E7A16}|NguyenThanhViet_1150080163_Lab2.csproj|d:\\ptpmhdt\\nguyenthanhviet_1150080163_lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E82CEC2-CDBA-4825-BF1B-695B999E7A16}|NguyenThanhViet_1150080163_Lab2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E82CEC2-CDBA-4825-BF1B-695B999E7A16}|NguyenThanhViet_1150080163_Lab2.csproj|d:\\ptpmhdt\\nguyenthanhviet_1150080163_lab2\\apdung4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E82CEC2-CDBA-4825-BF1B-695B999E7A16}|NguyenThanhViet_1150080163_Lab2.csproj|solutionrelative:apdung4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:42:03.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApDung4.cs",
+              "DocumentMoniker": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab2\\ApDung4.cs",
+              "RelativeDocumentMoniker": "ApDung4.cs",
+              "ToolTip": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab2\\ApDung4.cs",
+              "RelativeToolTip": "ApDung4.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:41:55.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApDung4.Designer.cs",
+              "DocumentMoniker": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab2\\ApDung4.Designer.cs",
+              "RelativeDocumentMoniker": "ApDung4.Designer.cs",
+              "ToolTip": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab2\\ApDung4.Designer.cs",
+              "RelativeToolTip": "ApDung4.Designer.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAQwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:41:52.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApDung4.cs [Design]",
+              "DocumentMoniker": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab2\\ApDung4.cs",
+              "RelativeDocumentMoniker": "ApDung4.cs",
+              "ToolTip": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab2\\ApDung4.cs [Design]",
+              "RelativeToolTip": "ApDung4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:41:41.823Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
