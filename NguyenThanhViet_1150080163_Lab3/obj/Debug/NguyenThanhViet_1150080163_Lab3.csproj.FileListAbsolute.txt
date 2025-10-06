@@ -1,0 +1,11 @@
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab3\obj\Debug\NguyenThanhViet_1150080163_Lab3.csproj.AssemblyReference.cache
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab3\obj\Debug\NguyenThanhViet_1150080163_Lab3.Properties.Resources.resources
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab3\obj\Debug\NguyenThanhViet_1150080163_Lab3.csproj.GenerateResource.cache
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab3\obj\Debug\NguyenThanhViet_1150080163_Lab3.csproj.CoreCompileInputs.cache
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab3\bin\Debug\NguyenThanhViet_1150080163_Lab3.exe.config
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab3\bin\Debug\NguyenThanhViet_1150080163_Lab3.exe
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab3\bin\Debug\NguyenThanhViet_1150080163_Lab3.pdb
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab3\obj\Debug\NguyenThanhViet_1150080163_Lab3.exe
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab3\obj\Debug\NguyenThanhViet_1150080163_Lab3.pdb
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab3\obj\Debug\NguyenThanhViet_1150080163_Lab3.exe.config
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab3\obj\Debug\FastFoodOrderApp.Form1.resources

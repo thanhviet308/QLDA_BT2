@@ -1,0 +1,11 @@
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab4\bin\Debug\NguyenThanhViet_1150080163_Lab4.exe.config
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab4\bin\Debug\NguyenThanhViet_1150080163_Lab4.exe
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab4\bin\Debug\NguyenThanhViet_1150080163_Lab4.pdb
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab4\obj\Debug\NguyenThanhViet_1150080163_Lab4.csproj.AssemblyReference.cache
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab4\obj\Debug\NguyenThanhViet_1150080163_Lab4.Properties.Resources.resources
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab4\obj\Debug\NguyenThanhViet_1150080163_Lab4.csproj.GenerateResource.cache
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab4\obj\Debug\NguyenThanhViet_1150080163_Lab4.csproj.CoreCompileInputs.cache
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab4\obj\Debug\NguyenThanhViet_1150080163_Lab4.exe
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab4\obj\Debug\NguyenThanhViet_1150080163_Lab4.pdb
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab4\obj\Debug\NguyenThanhViet_1150080163_Lab4.exe.config
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab4\obj\Debug\QuanLyBanHang.Form1.resources
