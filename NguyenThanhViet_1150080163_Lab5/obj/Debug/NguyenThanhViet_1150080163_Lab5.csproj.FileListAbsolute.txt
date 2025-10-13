@@ -1,0 +1,15 @@
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab5\bin\Debug\DBConnect.mdf
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab5\bin\Debug\DBConnect_log.ldf
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab5\bin\Debug\NguyenThanhViet_1150080163_Lab5.exe.config
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab5\bin\Debug\NguyenThanhViet_1150080163_Lab5.exe
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab5\bin\Debug\NguyenThanhViet_1150080163_Lab5.pdb
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab5\obj\Debug\NguyenThanhViet_1150080163_Lab5.csproj.AssemblyReference.cache
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab5\obj\Debug\NguyenThanhViet_1150080163_Lab5.Properties.Resources.resources
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab5\obj\Debug\NguyenThanhViet_1150080163_Lab5.csproj.GenerateResource.cache
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab5\obj\Debug\NguyenThanhViet_1150080163_Lab5.csproj.CoreCompileInputs.cache
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab5\obj\Debug\NguyenThanhViet_1150080163_Lab5.exe
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab5\obj\Debug\NguyenThanhViet_1150080163_Lab5.pdb
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab5\obj\Debug\NguyenThanhViet_1150080163_Lab5.exe.config
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab5\obj\Debug\NguyenThanhViet_1150080163_Lab5.Form2.resources
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab5\obj\Debug\NguyenThanhViet_1150080163_Lab5.Form3.resources
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab5\obj\Debug\NguyenThanhViet_1150080163_Lab5.Form4.resources

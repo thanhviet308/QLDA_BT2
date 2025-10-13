@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Form2.Properties
+namespace NguyenThanhViet_1150080163_Lab5.Properties
 {
 
 

@@ -3,19 +3,23 @@
   "WorkspaceRootPath": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F6B79685-66F6-4BEB-886F-BB2CDA9DABE8}|NguyenThanhViet_1150080163_Lab4.csproj|d:\\ptpmhdt\\nguyenthanhviet_1150080163_lab4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B79685-66F6-4BEB-886F-BB2CDA9DABE8}|NguyenThanhViet_1150080163_Lab4.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F6B79685-66F6-4BEB-886F-BB2CDA9DABE8}|NguyenThanhViet_1150080163_Lab4.csproj|d:\\ptpmhdt\\nguyenthanhviet_1150080163_lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6B79685-66F6-4BEB-886F-BB2CDA9DABE8}|NguyenThanhViet_1150080163_Lab4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6B79685-66F6-4BEB-886F-BB2CDA9DABE8}|NguyenThanhViet_1150080163_Lab4.csproj|d:\\ptpmhdt\\nguyenthanhviet_1150080163_lab4\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6B79685-66F6-4BEB-886F-BB2CDA9DABE8}|NguyenThanhViet_1150080163_Lab4.csproj|D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab4\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6B79685-66F6-4BEB-886F-BB2CDA9DABE8}|NguyenThanhViet_1150080163_Lab4.csproj|solutionrelative:form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6B79685-66F6-4BEB-886F-BB2CDA9DABE8}|NguyenThanhViet_1150080163_Lab4.csproj|d:\\ptpmhdt\\nguyenthanhviet_1150080163_lab4\\form6.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6B79685-66F6-4BEB-886F-BB2CDA9DABE8}|NguyenThanhViet_1150080163_Lab4.csproj|D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab4\\form6.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6B79685-66F6-4BEB-886F-BB2CDA9DABE8}|NguyenThanhViet_1150080163_Lab4.csproj|solutionrelative:form6.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6B79685-66F6-4BEB-886F-BB2CDA9DABE8}|NguyenThanhViet_1150080163_Lab4.csproj|d:\\ptpmhdt\\nguyenthanhviet_1150080163_lab4\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F6B79685-66F6-4BEB-886F-BB2CDA9DABE8}|NguyenThanhViet_1150080163_Lab4.csproj|D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab4\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F6B79685-66F6-4BEB-886F-BB2CDA9DABE8}|NguyenThanhViet_1150080163_Lab4.csproj|solutionrelative:form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab4\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab4\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T05:56:13.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab4\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form6.cs",
               "DocumentMoniker": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab4\\Form6.cs",
               "RelativeDocumentMoniker": "Form6.cs",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "Form6.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T08:24:11.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T08:24:11.028Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form6.Designer.cs",
               "DocumentMoniker": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab4\\Form6.Designer.cs",
               "RelativeDocumentMoniker": "Form6.Designer.cs",
@@ -64,20 +80,18 @@
               "RelativeToolTip": "Form6.Designer.cs",
               "ViewState": "AgIAAEwAAAAAAAAAAAAQwGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T08:24:08.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T08:24:08.486Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form6.cs [Design]",
               "DocumentMoniker": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab4\\Form6.cs",
               "RelativeDocumentMoniker": "Form6.cs",
               "ToolTip": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab4\\Form6.cs [Design]",
               "RelativeToolTip": "Form6.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T08:24:01.274Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-06T08:24:01.274Z"
             }
           ]
         }
