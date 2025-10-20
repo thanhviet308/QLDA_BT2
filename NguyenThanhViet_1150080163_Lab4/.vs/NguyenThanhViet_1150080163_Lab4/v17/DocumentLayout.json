@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{F6B79685-66F6-4BEB-886F-BB2CDA9DABE8}|NguyenThanhViet_1150080163_Lab4.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6B79685-66F6-4BEB-886F-BB2CDA9DABE8}|NguyenThanhViet_1150080163_Lab4.csproj|d:\\ptpmhdt\\nguyenthanhviet_1150080163_lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6B79685-66F6-4BEB-886F-BB2CDA9DABE8}|NguyenThanhViet_1150080163_Lab4.csproj|D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6B79685-66F6-4BEB-886F-BB2CDA9DABE8}|NguyenThanhViet_1150080163_Lab4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab4\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T05:56:13.426Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T08:24:25.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T08:24:25.814Z"
             },
             {
               "$type": "Document",
