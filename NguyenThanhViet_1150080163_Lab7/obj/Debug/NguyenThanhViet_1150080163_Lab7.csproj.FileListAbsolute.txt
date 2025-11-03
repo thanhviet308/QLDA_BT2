@@ -1,0 +1,10 @@
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab7\bin\Debug\NguyenThanhViet_1150080163_Lab7.exe.config
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab7\bin\Debug\NguyenThanhViet_1150080163_Lab7.exe
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab7\bin\Debug\NguyenThanhViet_1150080163_Lab7.pdb
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab7\obj\Debug\NguyenThanhViet_1150080163_Lab7.csproj.AssemblyReference.cache
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab7\obj\Debug\NguyenThanhViet_1150080163_Lab7.Properties.Resources.resources
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab7\obj\Debug\NguyenThanhViet_1150080163_Lab7.csproj.GenerateResource.cache
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab7\obj\Debug\NguyenThanhViet_1150080163_Lab7.csproj.CoreCompileInputs.cache
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab7\obj\Debug\NguyenThanhViet_1150080163_Lab7.exe
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab7\obj\Debug\NguyenThanhViet_1150080163_Lab7.pdb
+D:\PTPMHDT\NguyenThanhViet_1150080163_Lab7\obj\Debug\NguyenThanhViet_1150080163_Lab7.exe.config

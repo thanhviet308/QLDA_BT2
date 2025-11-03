@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{578A7840-284A-41CA-BCA0-4BA4C6CA61D2}|NguyenThanhViet_1150080163_Lab8.csproj|d:\\ptpmhdt\\nguyenthanhviet_1150080163_lab8\\rptsinhvien.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{578A7840-284A-41CA-BCA0-4BA4C6CA61D2}|NguyenThanhViet_1150080163_Lab8.csproj|solutionrelative:rptsinhvien.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578A7840-284A-41CA-BCA0-4BA4C6CA61D2}|NguyenThanhViet_1150080163_Lab8.csproj|D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab8\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578A7840-284A-41CA-BCA0-4BA4C6CA61D2}|NguyenThanhViet_1150080163_Lab8.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578A7840-284A-41CA-BCA0-4BA4C6CA61D2}|NguyenThanhViet_1150080163_Lab8.csproj|D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578A7840-284A-41CA-BCA0-4BA4C6CA61D2}|NguyenThanhViet_1150080163_Lab8.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578A7840-284A-41CA-BCA0-4BA4C6CA61D2}|NguyenThanhViet_1150080163_Lab8.csproj|D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578A7840-284A-41CA-BCA0-4BA4C6CA61D2}|NguyenThanhViet_1150080163_Lab8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578A7840-284A-41CA-BCA0-4BA4C6CA61D2}|NguyenThanhViet_1150080163_Lab8.csproj|D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab8\\dssinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578A7840-284A-41CA-BCA0-4BA4C6CA61D2}|NguyenThanhViet_1150080163_Lab8.csproj|solutionrelative:dssinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578A7840-284A-41CA-BCA0-4BA4C6CA61D2}|NguyenThanhViet_1150080163_Lab8.csproj|D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab8\\dssinhvien.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{578A7840-284A-41CA-BCA0-4BA4C6CA61D2}|NguyenThanhViet_1150080163_Lab8.csproj|solutionrelative:dssinhvien.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578A7840-284A-41CA-BCA0-4BA4C6CA61D2}|NguyenThanhViet_1150080163_Lab8.csproj|D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{578A7840-284A-41CA-BCA0-4BA4C6CA61D2}|NguyenThanhViet_1150080163_Lab8.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578A7840-284A-41CA-BCA0-4BA4C6CA61D2}|NguyenThanhViet_1150080163_Lab8.csproj|D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab8\\rptsinhvien.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}|XML",
+      "RelativeMoniker": "D:0:0:{578A7840-284A-41CA-BCA0-4BA4C6CA61D2}|NguyenThanhViet_1150080163_Lab8.csproj|solutionrelative:rptsinhvien.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}|XML"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rptSinhVien.rdlc [Design]",
+              "DocumentMoniker": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab8\\rptSinhVien.rdlc",
+              "RelativeDocumentMoniker": "rptSinhVien.rdlc",
+              "ToolTip": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab8\\rptSinhVien.rdlc [Design]*",
+              "RelativeToolTip": "rptSinhVien.rdlc [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-11-03T07:31:17.913Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "rptSinhVien.rdlc [XML]",
+              "DocumentMoniker": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab8\\rptSinhVien.rdlc",
+              "RelativeDocumentMoniker": "rptSinhVien.rdlc",
+              "ToolTip": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab8\\rptSinhVien.rdlc [XML]*",
+              "RelativeToolTip": "rptSinhVien.rdlc [XML]*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-11-03T08:19:05.261Z",
+              "EditorCaption": " [XML]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab8\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab8\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T07:46:22.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab8\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab8\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T07:46:12.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab8\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab8\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T07:46:09.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dsSinhVien.cs",
+              "DocumentMoniker": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab8\\dsSinhVien.cs",
+              "RelativeDocumentMoniker": "dsSinhVien.cs",
+              "ToolTip": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab8\\dsSinhVien.cs",
+              "RelativeToolTip": "dsSinhVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T07:23:56.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dsSinhVien.xsd",
+              "DocumentMoniker": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab8\\dsSinhVien.xsd",
+              "RelativeDocumentMoniker": "dsSinhVien.xsd",
+              "ToolTip": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab8\\dsSinhVien.xsd",
+              "RelativeToolTip": "dsSinhVien.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-11-03T07:21:39.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab8\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab8\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T06:37:45.481Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE1AC0B-21B8-4479-B790-671B1462B804}|NguyenThanhViet_1150080163_Lab7.csproj|d:\\ptpmhdt\\nguyenthanhviet_1150080163_lab7\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE1AC0B-21B8-4479-B790-671B1462B804}|NguyenThanhViet_1150080163_Lab7.csproj|solutionrelative:form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE1AC0B-21B8-4479-B790-671B1462B804}|NguyenThanhViet_1150080163_Lab7.csproj|d:\\ptpmhdt\\nguyenthanhviet_1150080163_lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE1AC0B-21B8-4479-B790-671B1462B804}|NguyenThanhViet_1150080163_Lab7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE1AC0B-21B8-4479-B790-671B1462B804}|NguyenThanhViet_1150080163_Lab7.csproj|d:\\ptpmhdt\\nguyenthanhviet_1150080163_lab7\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE1AC0B-21B8-4479-B790-671B1462B804}|NguyenThanhViet_1150080163_Lab7.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE1AC0B-21B8-4479-B790-671B1462B804}|NguyenThanhViet_1150080163_Lab7.csproj|d:\\ptpmhdt\\nguyenthanhviet_1150080163_lab7\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFE1AC0B-21B8-4479-B790-671B1462B804}|NguyenThanhViet_1150080163_Lab7.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab7\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab7\\Form4.cs",
+              "RelativeToolTip": "Form4.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T06:14:00.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.Designer.cs",
+              "DocumentMoniker": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab7\\Form4.Designer.cs",
+              "RelativeDocumentMoniker": "Form4.Designer.cs",
+              "ToolTip": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab7\\Form4.Designer.cs",
+              "RelativeToolTip": "Form4.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T06:13:55.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab7\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab7\\Form4.cs [Design]",
+              "RelativeToolTip": "Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T06:13:51.776Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab7\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\PTPMHDT\\NguyenThanhViet_1150080163_Lab7\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T05:53:56.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
